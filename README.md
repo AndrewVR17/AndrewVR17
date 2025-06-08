@@ -12,8 +12,9 @@ What I am doing most on this profile is coding templates. Coding templates dont 
 
 <details>
   <summary>How to reach me📱!</summary>
-- My [Discord](https://discord.com/users/1352063672108847115)  
-- My Email(primaltagad@gmail.com)
+- My [Discord](https://discord.com/users/1352063672108847115)
+
+  - My Email(primaltagad@gmail.com)
 </details>
 
 <details>
