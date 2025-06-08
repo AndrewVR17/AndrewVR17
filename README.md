@@ -12,8 +12,8 @@ What I am doing most on this profile is coding templates. Coding templates dont 
 
 <details>
   <summary>How to reach me📱!</summary>
-- My [Discord Server](https://discord.gg/j2TxPqPR)
-- My [Discord]([https://discord.gg/j2TxPqPR](https://discord.com/users/1352063672108847115))
+- My Discord Server (https://discord.gg/yrzaMBfQGt)
+- My [Discord](https://discord.com/users/1352063672108847115)
 
   - My Email(primaltagad@gmail.com)
 </details>
